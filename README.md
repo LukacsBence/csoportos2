@@ -1,1 +1,1 @@
-# csoportos2
+# ez egy ütközés
